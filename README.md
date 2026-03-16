@@ -1,4 +1,4 @@
-# ✈️ ViajesApp
+# ✈️ Viajes App
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-blue.svg?logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-4285F4.svg?logo=android)
