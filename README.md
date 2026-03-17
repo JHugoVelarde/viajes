@@ -70,7 +70,7 @@ Para ejecutar este proyecto en tu máquina local, necesitarás configurar tu pro
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/JHugoVelarde/viajes.git](https://github.com/JHugoVelarde/viajes.git))
+   git clone https://github.com/JHugoVelarde/viajes.git
 
 2. **Obtén una API Key de Google Maps:**
 - Dirígete a la Consola de Google Cloud.
